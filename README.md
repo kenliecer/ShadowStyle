@@ -1,5 +1,5 @@
 # Shadow Style
-Custom neon theme for spicetify / Spotify
+Custom neon theme for spicetify / Spotify by [Safe Shadow](https://safeshadow.com)  
 
 <img src="https://i.imgur.com/tPXNyD5.png" width="90%">
 <p float="left">
