@@ -4,7 +4,7 @@ Custom neon theme for spicetify / Spotify
 <img src="https://i.imgur.com/tPXNyD5.png" width="90%">
 <p float="left">
   <img src="https://i.imgur.com/lXVHnI1.png" width="45%" style="display: inline">
-  <img src="https://i.imgur.com/iIlIW5r.png" width="45%" style="display: inline">
+  <img src="https://i.imgur.com/r8nBBna.png" width="45%" style="display: inline">
 </p>
 
 ### Installing  
