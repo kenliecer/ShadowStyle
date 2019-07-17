@@ -16,3 +16,5 @@ Edit `config.ini` and set `current_theme    = PurpleShade`
 ### Prerequisites  
 [Spotify](https://www.spotify.com "Spotify Desktop")  
 [Spicetify-CLI](https://github.com/khanhas/spicetify-cli "Spicetify-CLI Github")
+
+Based on [PurpleShade](https://github.com/theHimanshuShekhar/PurpleShade)
